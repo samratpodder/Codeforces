@@ -1,0 +1,1 @@
+{"name":"Local: PalindromicNumbers","url":"d:\\Codes\\GitHub\\Codeforces\\PalindromicNumbers.java","tests":[{"id":1655647584458,"input":"3\n2\n99\n4\n1023\n3\n385\n","output":"12\n8976\n614"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codes\\GitHub\\Codeforces\\PalindromicNumbers.java","group":"local","local":true}

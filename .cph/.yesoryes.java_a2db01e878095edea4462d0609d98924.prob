@@ -1,0 +1,1 @@
+{"name":"Local: yesoryes","url":"d:\\Codes\\GitHub\\Codeforces\\yesoryes.java","tests":[{"id":1657636824390,"input":"10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES","output":"YES\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codes\\GitHub\\Codeforces\\yesoryes.java","group":"local","local":true}
